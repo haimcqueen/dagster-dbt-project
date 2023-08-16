@@ -20,4 +20,4 @@ renamed as (
 
 )
 
-select * from renamed
+select * from error_name
