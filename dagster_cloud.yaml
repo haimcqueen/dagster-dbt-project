@@ -1,0 +1,6 @@
+locations:
+- build:
+    directory: ./dagster_dbt_scaffold
+  code_source:
+    module_name: dagster_dbt_scaffold.definitions
+  location_name: dagster_dbt_scaffold
